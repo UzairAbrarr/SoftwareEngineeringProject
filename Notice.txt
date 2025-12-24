@@ -1,0 +1,33 @@
+Software Engineering Project – Source Code Access Notice
+Project Overview
+
+This project was developed as part of our Software Engineering course.
+The game was created in collaboration with Futuristic Studio under a formal agreement.
+
+The project involved real production workflows, industry practices, and collaboration with an external studio team.
+
+Source Code Availability
+The complete source code for this project cannot be uploaded to GitHub.
+
+Reason is simple and non-negotiable:
+The source code is the intellectual property of Futuristic Studio.
+Uploading or sharing the code publicly would be a direct violation of the collaboration agreement and IP terms.
+
+Because of this legal and ethical restriction, it is literally impossible for us to push the full project code to this repository.
+
+Verification and Evaluation
+To verify the authenticity and completion of the project, we can provide:
+Steam link of the published game : https://store.steampowered.com/app/3969640/PENANCE/
+
+Official point of contact from Futuristic Studio for any technical or project-related queries
+UbaidUllah - 03208596168 - ubair.gamedev@gmail.com
+
+Project documentation, reports, and explanations of our individual contributions
+
+Any further confirmation or clarification can be done directly through the studio representative.
+
+If any verification or questions are required, the studio contact person can be reached upon request.
+
+Note
+This repository exists only to document the project context and constraints.
+Lack of source code upload does not indicate lack of contribution or incomplete work, but compliance with professional IP agreements.
