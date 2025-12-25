@@ -20,7 +20,7 @@ To verify the authenticity and completion of the project, we can provide:
 Steam link of the published game : https://store.steampowered.com/app/3969640/PENANCE/
 
 Official point of contact from Futuristic Studio for any technical or project-related queries
-UbaidUllah - 03208596168 - ubair.gamedev@gmail.com
+UbaidUllah - 03208596168 - ubaid.gamedev@gmail.com
 
 Project documentation, reports, and explanations of our individual contributions
 
